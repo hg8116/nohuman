@@ -5,5 +5,6 @@ Nohumans
 - Downloaded all components for shadcn
 - Setup neondb with env
 - Installed drizzle orm
-- Intsalled and setup better auth for authentication
+- Installed and setup better auth for authentication
+- tRPC and Tanstack Query used
 
