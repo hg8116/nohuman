@@ -9,3 +9,4 @@ Nohumans
 - tRPC and Tanstack Query used
 - nanoid to generate unique small id
 - nuqs for url query management
+- Stream for meetings
